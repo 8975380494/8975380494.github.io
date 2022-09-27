@@ -93,7 +93,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: crimson;
+    background: black;
 }
 .navbar .max-width{
     display: flex;
@@ -173,7 +173,7 @@ section .title::after{
     background: url("images/banner.jpg") no-repeat center;
     /* background: #111; */
     height: 100vh;
-    color: #fff;
+    color: black;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -199,7 +199,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: crimson;
+    color: black;
     font-weight: 500;
 }
 .home .home-content a{
